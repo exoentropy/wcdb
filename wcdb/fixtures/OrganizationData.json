@@ -1,0 +1,142 @@
+[
+	{
+		"model":"crises.OrganizationsData",
+		"pk":1,
+		"fields":{
+
+			"org":1,
+			"description":"UNSCEAR was established in 1955 by the General Assembly of the United Nations. The organizations purpose in the United Nations system is to assess and report levels and effects of exposure to ionizing radiation. Governments and organizations throughout the world rely on the Committee's estimates as the scientific basis for evaluating radiation risk and for establishing protective measures. UNSCEAR was involved in the assessment of radiation exposures and health effects early on during the Chernobyl accident in 1986.",
+			"location": "Sessions are held in Vienna International Centre, Vienna, Austria.",
+			"date_established":"1955-01-01",
+			"contact_info": 1,
+			"people":[3],
+			"crises":[2]
+		}
+	},
+	{
+		"model":"crises.OrganizationsData",
+		"pk":2,
+		"fields":{
+
+			"org":2,
+			"description":"Umbrella political organization claiming to represent the world's Palestinians - those Arabs, and their descendants, who lived in  mandated Palestine before the creation of the State of Israel in 1948. It was formed in 1964 to centralize the leadership of various Palestine groups that previously had operated as clandestine resistance movements. It came into prominence only after the Six-Day War of June 1967, however, and engaged in a protracted guerrilla war against Israel during the 1960s, ’70s, and ’80s before entering into peace negotiations with that country in the 1990s.",
+			"location": "Sessions are held in Vienna International Centre, Vienna, Austria.",
+			"date_established":"1964-06-02",
+			"contact_info": 2,
+			"people":[1],
+			"crises":[1]
+		}
+	},
+	{
+		"model":"crises.OrganizationsData",
+		"pk":3,
+		"fields":{
+
+			"org":3,
+			"description":"Union Carbide Corporation is a wholly owned subsidiary of The Dow Chemical Company. UCC is a chemical and polymers company with over 2,400 employees. The company possesses some of the industry's most advanced process and catalyst technologies, and operates some of the most cost-efficient, large-scale production facilities in the world. Union Carbide primarily produces chemicals and polymers that undergo one or more further conversions by customers before reaching consumers. Some of these materials are high-volume commodities, while others are specialty products meeting the needs of smaller market niches.",
+			"location": "Bound Brook, NJ, Greensburg, LA, Houston (Corporate Center), St. Charles Operations, LA,Seadrift, TX,Texas City, TX ",
+			"date_established":"1917-01-01",
+			"contact_info": 3,
+			"people":[2],
+			"crises":[4]
+		}
+	},
+	{
+		"model":"crises.OrganizationsData",
+		"pk":4,
+		"fields":{
+			
+			"org":4,
+			"description":"It helps people in need reduce their dependence of humanitarian aid and facilitates their transition to sustainable self-reliant,long-term development. FOCUS is an affiliate of the aga Khan Development Network (AKDN). Founded in 1994 by the Ismaili Muslim community under the guidance of His Highness the Aga Khan. FOCUS' expertise ranges from providing relief and assistance following landslides, earthquakes, cyclones, floods and disease epidemics. It has also helped in resettlement programmes for displaced families. In addition, FOCUS has over a decade’s expertise in fostering disaster-resilient communities and developing methods and training for disaster risk management, from natural hazard risk assessment to mitigation and preparedness in some of the world’s most challenging terrain, including the mountains of Afghanistan, Pakistan and Tajikistan and the coastal plains of the Indian subcontinent.",
+			"location": "Afghanistan, Canada, Europe, India, Pakistan, USA",
+			"date_established":"1997-01-01",
+			"contact_info": 4,
+			"people":[5],
+			"crises":[3]
+		}
+	},
+	{
+		"model":"crises.OrganizationsData",
+		"pk":5,
+		"fields":{
+			
+			"org":5,
+			"description":"The Bill & Melinda Gates Foundation is one of the largest private foundations in the world, founded by Bill and Melinda Gates. Works with partner organizations worldwide to tackle critical problems in four program areas. There Global Development division works to help the world's poorest people lift themselves out of hunger and poverty. Their Global Health Division aims to harness advances in science and technology to save lives in developing countries. Their United States division works to improve U.S. high school and postsecondary education and support vulnerable children and families in Washington State. And their Global Policy & Advocacy Division seeks to build strategic relationships and promote policies that will help advance their work.",
+			"location": "440 5th Ave N., Seattle, WA 98109 (206) 709-3100 ext.7100",
+			"date_established":"1997-01-01",
+			"contact_info": 5,
+			"people":[4],
+			"crises":[3]
+		}
+	},
+	{
+		"model":"crises.OrganizationsData",
+		"pk":6,
+		"fields":{
+			
+			"org":6,
+			"description":"The Federal Bureau of Investigation (FBI) is a governmental agency belonging to the United States Department of Justice that serves as both a federal criminal investigative body and an internal intelligence agency (counterintelligence). Also, it is the government agency responsible for investigating crimes on Native American reservations in the United States under the Major Crimes Act. The bureau was established in 1908 as the Bureau of Investigation (BOI). Its name was changed to the Federal Bureau of Investigation (FBI) in 1935. The FBI headquarters is the J. Edgar Hoover Building, located in Washington, D.C. The bureau has fifty-six field offices located in major cities throughout the United States, and more than 400 resident agencies in lesser cities and areas across the nation.",
+			"location": "Washington, DC",
+			"date_established":"1935-01-01",
+			"contact_info": 6,
+			"people":[],
+			"crises":[9, 8, 6]
+		}
+	},
+	{
+		"model":"crises.OrganizationsData",
+		"pk":7,
+		"fields":{
+			
+			"org":7,
+			"description":"The name \"United Nations\", coined by United States President Franklin D. Roosevelt was first used in the Declaration by United Nations of 1 January 1942, during the Second World War, when representatives of 26 nations pledged their Governments to continue fighting together against the Axis Powers. States first established international organizations to cooperate on specific matters. The International Telecommunication Union was founded in 1865 as the International Telegraph Union, and the Universal Postal Union was established in 1874. Both are now United Nations specialized agencies.",
+			"location": "New York, NY",
+			"date_established":"1945-01-01",
+			"contact_info": 7,
+			"people":[6, 9, 10],
+			"crises":[1]
+		}
+	},
+	{
+		"model":"crises.OrganizationsData",
+		"pk":8,
+		"fields":{
+			
+			"org":8,
+			"description":"The mission of the Drug Enforcement Administration (DEA) is to enforce the controlled substances laws and regulations of the United States and bring to the criminal and civil justice system of the United States, or any other competent jurisdiction, those organizations and principal members of organizations, involved in the growing, manufacture, or distribution of controlled substances appearing in or destined for illicit traffic in the United States; and to recommend and support non-enforcement programs aimed at reducing the availability of illicit controlled substances on the domestic and international markets.",
+			"location": "Springfield, VA",
+			"date_established":"1973-01-06",
+			"contact_info": 8,
+			"people":[],
+			"crises":[9]
+		}
+	},
+	{
+		"model":"crises.OrganizationsData",
+		"pk":9,
+		"fields":{
+			
+			"org":9,
+			"description":"NATO is an active and leading contributor to peace and security on the international stage. Through its crisis-management operations, the Alliance demonstrates both its willingness to act as a positive force for change and its capacity to meet the security challenges of the 21st century. Since its first major peace-support operation in the Balkans in the early 1990s, the tempo and diversity of NATO operations have increased. NATO has been engaged in missions that cover the full spectrum of crisis-management operations – from combat and peacekeeping, to training and logistics support, to surveillance and humanitarian relief. Today, just under 100,000 military personnel are engaged in NATO missions around the world, successfully managing complex ground, air and naval operations in all types of environment. These forces are currently operating in Afghanistan, Kosovo, the Mediterranean, off the Horn of Africa and in Somalia.",
+			"location": "Brussels, Belgium",
+			"date_established":"1949-04-04",
+			"contact_info": 9,
+			"people":[],
+			"crises":[]
+		}
+	},
+	{
+		"model":"crises.OrganizationsData",
+		"pk":10,
+		"fields":{
+			
+			"org":10,
+			"description":"BP is a British multinational oil and gas company. It is the fifth-largest energy company by market capitalization, fifth-largest company in the world measured by 2012 revenues, and the sixth largest oil and gas company measured by 2012 production. It is one of the six oil and gas \"super majors\". BP is vertically integrated and operates in all areas of the oil and gas industry, including exploration and production, refining, distribution and marketing, petrochemicals, power generation and trading. It also has renewable energy activities in biofuels and wind power.",
+			"location": "London, England",
+			"date_established":"1909-01-01",
+			"contact_info": 10,
+			"people":[],
+			"crises":[7]
+		}
+	}
+]

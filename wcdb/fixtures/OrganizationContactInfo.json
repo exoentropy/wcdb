@@ -1,0 +1,102 @@
+[
+	{
+		"model":"crises.ContactInfo",
+		"pk":1,
+		"fields":{
+			"name": "UNSCEAR secretariat",
+			"address": "UNITED NATIONS Vienna International Centre P.O. Box 500 A-1400 Vienna, AUSTRIA",
+			"email": "notfound@notfound.com",
+			"phone": 1260604330
+		}
+	},
+	{
+		"model":"crises.ContactInfo",
+		"pk":2,
+		"fields":{
+			"name": "N/A",
+			"address": "N/A",
+			"email": "notfound@notfound.com",
+			"phone": "N/A"
+		}
+	},
+	{
+		"model":"crises.ContactInfo",
+		"pk":3,
+		"fields":{
+			"name": "For Media Relations",
+			"address": "N/A",
+			"email": "mediarelations@unioncarbide.com",
+			"phone": 6464351553
+		}
+	},
+	{
+		"model":"crises.ContactInfo",
+		"pk":4,
+		"fields":{
+			"name": "FOCUS International Coordinating Committee (FICC) Secretariat",
+			"address": "Suite 201, 789 Don Mills Road Don Mills Ontario M3C 1T5",
+			"email": "ficc@focushumanitarian.org",
+			"phone": 14164220177
+		}
+	},
+	{
+		"model":"crises.ContactInfo",
+		"pk":5,
+		"fields":{
+			"name": "Main Office",
+			"address": "500 Fifth Avenue North Seattle, WA 98102",
+			"email": "info@gatesfoundation.org",
+			"phone": 2067093100
+		}
+	},
+	{
+		"model":"crises.ContactInfo",
+		"pk":6,
+		"fields":{
+			"name": "FBI",
+			"address": "935 Pennsylvania Ave NW, Washington, DC 20535",
+			"email": "notfound@notfound.com",
+			"phone": 2023243000
+		}
+	},
+	{
+		"model":"crises.ContactInfo",
+		"pk":7,
+		"fields":{
+			"name": "UN",
+			"address": "notfound@notfound.com",
+			"email": "2 United Nations Plz, New York, NY 10017",
+			"phone": 2129634475
+		}
+	},
+	{
+		"model":"crises.ContactInfo",
+		"pk":8,
+		"fields":{
+			"name": "Office of Diversion Control",
+			"address": "8701 Morrissette Drive Springfield, VA 22152",
+			"email": "notfound@notfound.com",
+			"phone": 8008829539
+		}
+	},
+	{
+		"model":"crises.ContactInfo",
+		"pk":9,
+		"fields":{
+			"name": "NATO",
+			"address": "Boulevard Leopold III, 1110 Brussels, Belgium",
+			"email": "notfound@notfound.com",
+			"phone": 0
+		}
+	},
+	{
+		"model":"crises.ContactInfo",
+		"pk":10,
+		"fields":{
+			"name": "International Headquarters",
+			"address": "BP p.l.c. 1 St James's Square London, SW1Y 4PD",
+			"email": "notfound@notfound.com",
+			"phone": 2074964000
+		}
+	}
+]

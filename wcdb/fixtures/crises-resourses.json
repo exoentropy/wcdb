@@ -1,0 +1,34 @@
+[
+	{
+		"model":"crises.CrisesResourses",
+		"pk":2,
+		"fields":{
+			"resourses":"Radiation Treatments",
+			"crisis":2
+		}
+	},
+	{
+		"model":"crises.CrisesResourses",
+		"pk":3,
+		"fields":{
+			"resourses":"Building Materials",
+			"crisis":3
+		}
+	},
+	{
+		"model":"crises.CrisesResourses",
+		"pk":7,
+		"fields":{
+			"resourses":"Claims against BP",
+			"crisis":7
+		}
+	},
+	{
+		"model":"crises.CrisesResourses",
+		"pk":9,
+		"fields":{
+			"resourses":"Drug policy reform",
+			"crisis":9
+		}
+	}
+]	

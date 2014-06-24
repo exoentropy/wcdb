@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block title %}World Crisies Database | SQL Query{% endblock %}
+
+{% block sqlquery %}
+<center>
+<h1>{{ queryName }}</h1>
+<br>
+<p>{{ rawSql }}</p>
+<br>
+<table border="3" cellpadding="10">
+<tr>
+{% for c in titles %}
+<td><center><h3>{{ c }}</h3></center></td>
+{% endfor %}
+</tr>
+{% for r in qresult %}
+<tr>
+{% for c in r %}
+<td><center><h4>{{ c }}</h4></center></td>
+{% endfor %}
+</tr>
+{% endfor %}
+</table>
+
+{% endblock sqlquery %}
