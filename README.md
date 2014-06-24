@@ -1,7 +1,7 @@
 WCDB
 ====
 
-World Crisis Database
+World Crisis Database: 
 http://www.scott-enriquez.net/projects/world-crisis-database
 
 Using the makefile
