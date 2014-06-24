@@ -1,9 +1,11 @@
-cs373-wcdb
-==========
+WCDB
+====
 
 World Crisis Database
+http://www.scott-enriquez.net/projects/world-crisis-database
+http://tcp-connections.herokuapp.com/
 
-Doing stuff with the makefile
+Using the makefile
 -----------------------------
 
 * Run the server locally: `make runserver`
@@ -14,7 +16,7 @@ Doing stuff with the makefile
 * Respider the live site and rebuild the index: `make index`
 
 
-Doing stuff locally
+Working locally
 -------------------
 All of the following should be executed from the `wcdb` directory (where `manage.py` exists).
 
@@ -29,7 +31,7 @@ Get the database working again after model changes ("migrating"):
 3. Reload the data: `python manage.py loaddata fixtures/*.json --settings=settings.local`
     
 
-Doing stuff on Heroku
+Working on Heroku
 ---------------------
 
 It's basically impossible to get anything done on heroku without heroku's command line tool, so grab the command line tool.
