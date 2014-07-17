@@ -2,7 +2,7 @@ WCDB
 ====
 
 World Crisis Database: 
-http://www.scott-enriquez.net/projects/world-crisis-database
+http://tcp-connections.herokuapp.com/
 
 Using the makefile
 -----------------------------
