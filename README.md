@@ -1,4 +1,4 @@
-WCDB
+wcdb
 ====
 
 World Crisis Database: 
