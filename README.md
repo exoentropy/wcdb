@@ -33,9 +33,7 @@ Get the database working again after model changes ("migrating"):
 Working on Heroku
 ---------------------
 
-It's basically impossible to get anything done on heroku without heroku's command line tool, so grab the command line tool.
-
-Adding heroku as a remote:
+Adding Heroku as a remote:
 
 1. Heroku's repo is listed here: https://dashboard.heroku.com/apps/tcp-connections/settings
 2. `git remote add heroku git@heroku.com:tcp-connections.git`
